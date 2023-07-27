@@ -1,5 +1,5 @@
 <template>
-    hr
+    <hr>
     <div>
         <footer class="p-4 bg-white sm:p-6 dark:bg-gray-800">
     <div class="mx-auto max-w-screen-xl">
